@@ -1,4 +1,4 @@
-# IPS Standards Files
+# IPS Coding Standards Files
 This repository contains an unofficial collection of IDE configurations and other files for use with IPS' own coding standards.
 
 ## phpStorm
